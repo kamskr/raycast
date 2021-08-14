@@ -38,6 +38,12 @@ Show your current internet speed
 Speedtest
 ```
 
+## Open Current Directory in iTerm
+
+```
+Open Current Finder Directory in iTerm
+```
+
 <div>
   <img src="./images/things.png" height="32px" width="32px" align="left">
   <h2>Things</h2>
