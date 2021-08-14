@@ -79,8 +79,6 @@ Stay on top of your to-dos with this collection of scripts that control the [Thi
 
 > **Pro tip:** Add the *Current To-Do* or the *Today* script to your favorites to have it always visible when opening Raycast.
 
-## Spotify
-
 <div>
   <img src="./images/spotify-logo.png" height="32px" width="32px" align="left">
   <h2>Spotify</h2>
