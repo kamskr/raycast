@@ -78,3 +78,21 @@ Stay on top of your to-dos with this collection of scripts that control the [Thi
 - **Today:** Get an overview of your completed tasks.
 
 > **Pro tip:** Add the *Current To-Do* or the *Today* script to your favorites to have it always visible when opening Raycast.
+
+## Spotify
+
+<div>
+  <img src="./images/spotify-logo.png" height="32px" width="32px" align="left">
+  <h2>Spotify</h2>
+</div>
+
+![Screenshot of Spotify](images/screenshots/spotify.png)
+
+### Available scripts
+- **Current Track** Show track that is currently playing
+- **Copy Current Playing Song URL**
+- **Next Track**
+- **Previous Track**
+- **Play**
+- **Pause**
+- **Toggle Play/Pausee**
