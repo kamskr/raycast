@@ -5,6 +5,19 @@ and Script Commands makes it possible to execute scripts from anywhere on your d
 They are a great way to speed up every-day tasks such as converting data, opening bookmarks
 or triggering dev workflows.
 
+## Install Script Commands from this repository
+
+To install new commands, follow these steps:
+
+1. Choose your script from the [community repo](https://github.com/raycast/script-commands/tree/master/commands#apps) and save them into a new directory (alternatively, you can use the [_enabled-commands](https://github.com/raycast/script-commands/tree/master/_enabled-commands) folder for this).
+2. Open the Extensions tab in the Raycast preferences
+3. Click the plus button
+4. Click `Add Script Directory`
+5. Select directories containing your Script Commands
+
+**💡 Hint:** We recommend that you don't directly load the community script directories into Raycast to avoid potential restructuring and new script commands suddenly appearing in Raycast.
+
+![Add directory](/images/screenshots/add-directory.png)
 
 ## Open current directory in VS Code
 
