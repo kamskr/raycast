@@ -30,6 +30,14 @@ Create Image from code
 
 Show time in NYC, London and Brisbane
 
+## Speed Test
+
+Show your current internet speed
+
+```
+Speedtest
+```
+
 <div>
   <img src="./images/things.png" height="32px" width="32px" align="left">
   <h2>Things</h2>
